@@ -16,7 +16,7 @@ function App() {
   return (
     <div className="App">
       {
-        !countOfMac.token? <Home /> :<Register />
+        countOfMac.token? <Home /> :<Register />
     }
 
     </div>
