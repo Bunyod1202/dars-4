@@ -13,6 +13,13 @@
       "first_name": "Bunyod",
       "last_name": "Agzamxojayev",
       "id": 2
+    },
+    {
+      "email": "fwes@gdsds.dwessd",
+      "password": "$2a$10$RFf1S/42vcz2u6tL3tB4/e0pS/svRXRTK28jQ.JthfuMPmzM3nBoq",
+      "first_name": "wesf",
+      "last_name": "wesf",
+      "id": 3
     }
   ],
   "posts": [
@@ -35,6 +42,10 @@
     {
       "name": "dqwdq",
       "id": 18
+    },
+    {
+      "name": "fwefw",
+      "id": 19
     }
   ]
 }

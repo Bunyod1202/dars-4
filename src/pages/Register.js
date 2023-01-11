@@ -48,7 +48,6 @@ export const Register = () => {
           <input className='form-control mb-2' placeholder='email' type="email" ref={EmailRef} name='email' />
           <input className='form-control mb-2' placeholder='password' type="password" ref={passwordRef} name='password' />
           <div>
-          <Link to="/login">registe</Link>
           </div>
           <button className='btn btn-info' type='submit' >Register</button>
         </form>
